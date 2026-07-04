@@ -1,11 +1,8 @@
 {
   "version": "1",
   "updatedAt": "2026-07-04T00:00:00Z",
-  "bannedRepos": ["izum-vinipuhov/pg_test"],
+  "bannedRepos": [],
   "bannedPackages": [],
-  "bannedIds": ["com.izum.test.hello"],
-  "reasons": {
-    "id:com.izum.test.hello": "Test plugin moved to blocklist for QA verification",
-    "repo:izum-vinipuhov/pg_test": "Test plugin moved to blocklist for QA verification"
-  }
+  "bannedIds": [],
+  "reasons": {}
 }
